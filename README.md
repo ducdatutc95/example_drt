@@ -1,2 +1,2 @@
 # example_drt
-project run at drt company
+project run at drt
